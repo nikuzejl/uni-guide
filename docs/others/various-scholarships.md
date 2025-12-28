@@ -11,9 +11,4 @@ Some scholarhips you might find interesting:
 - [Métiers d'avenir Quebec](https://www.quebecmetiersdavenir.com/bourse-dexcellence/)
 - [Turkish scholarships](https://www.turkiyeburslari.gov.tr/)
 
-Important sites where you can find scholarhips:
-- [https://www.mastere.tn/](https://www.mastere.tn/)
-- [https://www.afterschoolafrica.com/](https://www.afterschoolafrica.com/)
-- [https://opportunitydesk.org/](https://opportunitydesk.org/)
-
 This is just a small list of opportunities that I, the author of this site, am familiar with — but there are many more out there that I may not know about. Google is your friend — keep searching!
