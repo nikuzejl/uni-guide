@@ -1,37 +1,61 @@
 site_name: Uni Guide
-site_url: https://nikuzejl.github.io/uni-guide/#/
+site_url: http://127.0.0.1:8000/
+
 theme:
   name: material
   logo: images/university.png
-  palette: 
+  icon:
+    alternate: material/earth
+  palette:
     - scheme: default
       primary: blue
-      accent: pink 
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
+      accent: pink
     - scheme: slate
       primary: blue
-      accent: pink 
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
   features:
-    - navigation.instant
-    - navigation.instant.preview
     - navigation.progress
     - navigation.tracking
     - navigation.tabs.sticky
     - navigation.sections
 
-nav: 
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            General Info: Informations générales
+            Undergraduate: Premier cycle
+            Graduate: Études supérieures
+            English Tests: Tests d'anglais
+            College Readiness Programs: Programmes de préparation au collège
+            Other Opportunities: Autres opportunités
+            US Student Visa: Visa d'étudiant américain
+            Canada Study Permit: Permis d'études canadien
+            Various Scholarships: Diverses bourses
+            Express Entry Canada: Entrée express Canada
+            Study in France: Étudier en France
+            Special fields: Domaines spécialisés
+            Contact: Contact
+
+nav:
   - General Info: index.md
   - Undergraduate: undergrad.md
   - Graduate: grad.md
   - English Tests: english-tests.md
-  - Other Opportunities: 
+  - College Readiness Programs: college-readiness-programs.md
+  - Other Opportunities:
       - US Student Visa: others/usa-student-visa.md
       - Canada Study Permit: others/canada-study-permit.md
       - Various Scholarships: others/various-scholarships.md
@@ -39,6 +63,3 @@ nav:
       - Study in France: others/france.md
       - Special fields: others/special-fields.md
   - Contact: contact.md
-
-extra:
-  favicon: images/university.png

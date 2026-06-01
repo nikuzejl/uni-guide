@@ -40,4 +40,4 @@ Possible sources of funding include:
 
 ## College Readiness Programs
 
-The entire process can feel long and challenging—it’s not easy. Fortunately, you don’t have to navigate it alone. There are programs that can help you improve your English, prepare for tests, and support you throughout your journey. You can [find these programs here.](/uni-guide/college-readiness-programs/)
+The entire process can feel long and challenging—it's not easy. Fortunately, you don't have to navigate it alone. There are programs that can help you improve your English, prepare for tests, and support you throughout your journey. You can [find these programs here.](college-readiness-programs.md)

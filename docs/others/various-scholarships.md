@@ -1,4 +1,4 @@
-Some scholarhips you might find interesting:
+Some scholarships you might find interesting:
 
 - [Erasmus Mundus](https://www.erasmusmundus.eu/)
 - [Chevening Scholarship](https://www.chevening.org/scholarship/burundi/)

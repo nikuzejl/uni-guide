@@ -1,1 +1,1 @@
-For questions or feedback, you can email me at `jnikuze@trincoll.edu`
+For questions or feedback, you can email me at `jnikuze3@gatech.edu`

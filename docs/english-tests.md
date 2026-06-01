@@ -1,4 +1,4 @@
-## Other Opportunities
+## English Language Tests
 
 ### Taking the TOEFL in Burundi (Information as of 2023)
 

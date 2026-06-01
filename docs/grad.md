@@ -14,7 +14,7 @@ To apply to graduate school, you will typically need:
 - **Get involved outside the classroom** — volunteering, internships, or work experience all help.  
 - **Have a clear academic goal** — unlike undergraduate programs, graduate schools expect you to know exactly what you want to study.  
 - **For Ph.D. programs**, familiarize yourself with current research at your target universities and, if possible, contact professors in your field of interest.  
-- **As a Burundian (or any international student whose first language is not English)**, you will likely need to take an [English test](/uni-guide/english-tests/).  
+- **As a Burundian (or any international student whose first language is not English)**, you will likely need to take an [English test](english-tests.md).  
 - **Some programs** may also require additional standardized tests such as the [GRE](https://www.ets.org/gre/), though this is not always mandatory.
 
 

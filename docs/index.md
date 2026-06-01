@@ -16,7 +16,7 @@ In the U.S. and Canada:
 
 In the U.S., students are not required to declare a major until their second year of university. It’s perfectly acceptable to begin university undecided. In fact, you can often pursue multiple majors or minors without additional tuition costs.
 
-If you're interested in medical school, law school, veterinary school, or other specialized fields, check out [this page for more information](/uni-guide/special-fields/).
+If you're interested in medical school, law school, or other specialized fields, check out our [Special Fields](others/special-fields.md) page for more information.
 
 
 ### Financial Aid
@@ -52,14 +52,14 @@ Here’s a step-by-step approach to get started:
 - Once admitted, apply for a visa.
 - Start preparing for your new academic journey!
 
-The whole process can seem lengthy and challenging—it’s not easy. Luckily, you don’t have to do it alone. There are programs that can help you learn English, pass tests, and support you throughout the entire journey. You can [find them here.](/uni-guide/college-readiness-programs/)
+The whole process can seem lengthy and challenging—it's not easy. Luckily, you don't have to do it alone. There are programs that can help you learn English, pass tests, and support you throughout the entire journey. You can [find them here.](college-readiness-programs.md)
 
 ### Learn More
 
 Click below to explore more detailed guides:
 
-- [Graduate Applications](/uni-guide/grad/)
-- [Undergraduate Applications](/uni-guide/undergrad/)
+- [Graduate Applications](grad.md)
+- [Undergraduate Applications](undergrad.md)
 
 
 ### Some Helpful Resources
