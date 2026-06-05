@@ -1,9 +1,12 @@
 site_name: Uni Guide
 site_url: http://127.0.0.1:8000/
 
+extra:
+  generator: false
+
 theme:
   name: material
-  logo: images/university.png
+  logo: /assets/images/favicon.png
   icon:
     alternate: material/earth
   palette:
@@ -44,7 +47,7 @@ plugins:
             US Student Visa: Visa d'étudiant américain
             Canada Study Permit: Permis d'études canadien
             Various Scholarships: Diverses bourses
-            Express Entry Canada: Entrée express Canada
+            Other Immigration Programs: Autres programmes d'immigration
             Study in France: Étudier en France
             Special fields: Domaines spécialisés
             Contact: Contact
@@ -59,7 +62,8 @@ nav:
       - US Student Visa: others/usa-student-visa.md
       - Canada Study Permit: others/canada-study-permit.md
       - Various Scholarships: others/various-scholarships.md
-      - Express Entry Canada: others/other-immigration-programs.md
+      - Other Immigration Programs: others/other-immigration-programs.md
       - Study in France: others/france.md
       - Special fields: others/special-fields.md
+  - Amakuru mu Kirundi: mu-kirundi.md
   - Contact: contact.md
