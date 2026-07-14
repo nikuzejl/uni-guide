@@ -6,8 +6,9 @@ extra:
 
 theme:
   name: material
-  logo: /assets/images/favicon.png
+  favicon: assets/images/favicon.png
   icon:
+    logo: material/book
     alternate: material/earth
   palette:
     - scheme: default
@@ -51,6 +52,11 @@ plugins:
             Study in France: Étudier en France
             Special fields: Domaines spécialisés
             Contact: Contact
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - General Info: index.md

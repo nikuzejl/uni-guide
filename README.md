@@ -16,55 +16,8 @@ This documentation supports both English and French with clean URL-based languag
 Users can switch languages using the language selector button in the navigation bar.
 
 ### Quick Start
-
-#### Prerequisites
-
-- Python 3.6+
-- pip
-
-#### Serve Locally
-
 ```bash
 cd uni-guide
 pip install mkdocs mkdocs-material mkdocs-static-i18n
-mkdocs serve
+python3 -m mkdocs serve
 ```
-
-#### Build
-
-```bash
-mkdocs build
-```
-
-### File Organization
-
-English pages use normal Markdown filenames. French pages use the `.fr.md` suffix beside their English equivalents.
-
-```text
-docs/
-+-- index.md
-+-- index.fr.md
-+-- undergrad.md
-+-- undergrad.fr.md
-+-- images/
-+-- others/
-    +-- usa-student-visa.md
-    +-- usa-student-visa.fr.md
-```
-
-### Key Features
-
-- Bilingual support with English and French language switching
-- Clean URLs with English at `/` and French at `/fr/`
-- Default English language
-- Dark and light mode
-- Mobile responsive layout
-- Fast navigation
-
-### Configuration
-
-- `mkdocs.yml` builds both English and French using `docs_structure: suffix`
-
-### Contact
-
-Email: `jnikuze3@gatech.edu`
